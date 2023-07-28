@@ -1,3 +1,4 @@
+**EDA Capstone Project:** 
 This project aims to analyze the churn rate of Orange S.A., a telecom company, and identify the factors contributing to customer churn. The dataset used is the Orange Telecom's Churn Dataset, which includes cleaned customer activity data and churn labels indicating cancelled subscriptions.
 
 **Problem Statement:**
@@ -14,16 +15,12 @@ The project addresses the issue of customer churn rate in Orange Telecom, where 
 **Project Structure:**
 The project repository follows a standard structure:
 
-**data:** Contains the dataset files used for analysis.
+**Data file:** Contains the dataset files used for analysis.
 
-**notebook:** Contains Jupyter notebooks for data exploration, analysis, and modeling,Includes python scripts for data preprocessing.
-
-**Conclusion:** Contains project reports and visualizations generated during the analysis.
+**Notebook:** Contains Jupyter notebooks for data exploration, analysis, and modeling,Includes python scripts for data preprocessing.
 
 **README.md file:** Provides an overview of the project, objectives, and structure.
 
-**requirements.txt file:** Lists required Python libraries and versions for reproducing the project environment.
+**Conclusion:** Contains project reports and visualizations generated during the analysis.
 
 This structure helps organize the code and related files, making the project easier to understand and reproduce.
-
-EDA Capstone Project.
